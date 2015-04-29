@@ -340,27 +340,27 @@
 ---------------------------------------------------------------*/
 
 .su-table table {
-	width: 100% !important;
-	margin: 0 0 1.5em 0 !important;
-	border-collapse: collapse !important;
-	font-size: 1em !important;
-	border: 1px solid #ccc !important;
+	width: 100% ;
+	margin: 0 0 1.5em 0 ;
+	border-collapse: collapse ;
+	font-size: 1em ;
+	border: 1px solid #ccc ;
 }
 .su-table th {
-	text-align: center !important;
-	padding: 1em !important;
-	font-size: 1em !important;
-	font-weight: normal !important;
-	color: #333 !important;
-	border: 1px solid #ccc !important;
-	background: #f0f0f0 !important;
+	text-align: center;
+	padding: 1em;
+	font-size: 1em;
+	font-weight: normal ;
+	color: #333 ;
+	border: 1px solid #ccc ;
+	background: #f0f0f0 ;
 }
 .su-table td {
-	padding: 0.5em 1em !important;
-	border: 1px solid #ccc !important;
-	background: #fff !important;
+	padding: 0.5em 1em ;
+	border: 1px solid #ccc ;
+	background: #fff ;
 }
-.su-table .su-even td { background: #f7f7f7 !important }
+.su-table .su-even td { background: #f7f7f7;  }
 
 /*		QR code
 ---------------------------------------------------------------*/
